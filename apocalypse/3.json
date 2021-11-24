@@ -1,0 +1,30 @@
+[
+  {
+    "trait_type": "Background",
+    "value": "Purple"
+  },
+  {
+    "trait_type": "Skin",
+    "value": "Green"
+  },
+  {
+    "trait_type": "Condition",
+    "value": "Clean"
+  },
+  {
+    "trait_type": "Clothes",
+    "value": "Weed Vest"
+  },
+  {
+    "trait_type": "Mouth",
+    "value": "Vampire"
+  },
+  {
+    "trait_type": "Eyes",
+    "value": "Aviator Glasses"
+  },
+  {
+    "trait_type": "Head",
+    "value": "Rocket Cap"
+  }
+]

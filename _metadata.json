@@ -1,0 +1,3802 @@
+[
+  {
+		"name": "ADA Apocalypse #1",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/1.png",
+		"dna": "f271493776909e12c5a93472822cebbd247ca897",
+		"edition": 1,
+		"date": 1637509181572,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Police"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Hipster Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Hard Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #2",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/2.png",
+		"dna": "a9e55832b482b155aadf2defa1035b8a893104a5",
+		"edition": 2,
+		"date": 1637509185526,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Lizard"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Ranger"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Police"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #3",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/3.png",
+		"dna": "e80117b59966345d1482678a60aa7ba713ec9e5c",
+		"edition": 3,
+		"date": 1637509188875,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Weed Vest"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rocket Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #4",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/4.png",
+		"dna": "e29ea76f75e086c1addca892d8b17bdafc0c05c9",
+		"edition": 4,
+		"date": 1637509192139,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Black Suit"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gag"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #5",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/5.png",
+		"dna": "112fa675b7dd387ac68285484be2e736b41ce8bc",
+		"edition": 5,
+		"date": 1637509195890,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Fishnet Pink"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Shocked"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Flat Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #6",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/6.png",
+		"dna": "b2377962cdd323d218be1dc8dd3d76cde52275d7",
+		"edition": 6,
+		"date": 1637509199103,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Weed Vest"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #7",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/7.png",
+		"dna": "040243250496933d7adcd8a2d0bd0cf4ceb59e50",
+		"edition": 7,
+		"date": 1637509202191,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Fishnet Black"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Detached"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #8",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/8.png",
+		"dna": "456d8a4108a48f62bbef0a48e7a4248121ade288",
+		"edition": 8,
+		"date": 1637509205512,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Robe"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Handlebar"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Hard Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #9",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/9.png",
+		"dna": "6fb748e5d3e62dc1ec1080eb8b40943a783d5eb3",
+		"edition": 9,
+		"date": 1637509209118,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Ranger"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Clenched"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Red Pupil"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Brown Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #10",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/10.png",
+		"dna": "62885a2110b61d83f30b4b7ded09b9ccf499676b",
+		"edition": 10,
+		"date": 1637509212495,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rocket Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #11",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/11.png",
+		"dna": "d18c2a645bfb49dc66cffbaa1d67319b62db5c43",
+		"edition": 11,
+		"date": 1637509215847,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tongue Out"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Monobrow"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Dreadlocks"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #12",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/12.png",
+		"dna": "88c47b507441887bfbacc9de1f874ca0734a0157",
+		"edition": 12,
+		"date": 1637509219195,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Trooper"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Detached"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #13",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/13.png",
+		"dna": "7a1981e2665bee31b5f23b24be3c058303d9fff9",
+		"edition": 13,
+		"date": 1637509222178,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Fishnet Pink"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ushanka"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #14",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/14.png",
+		"dna": "fcae45471b2ba9e2f98a805a827ade4d55d3eadc",
+		"edition": 14,
+		"date": 1637509225047,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Injured"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #15",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/15.png",
+		"dna": "e04fa8b6f3f5526c5d8317cc3d2c36bcebb713f4",
+		"edition": 15,
+		"date": 1637509227967,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "High Vis"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bandana"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #16",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/16.png",
+		"dna": "59ccd7811b55f7db13db1b8ee4d0a4f6ef2b784a",
+		"edition": 16,
+		"date": 1637509231639,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Hungry"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Heart Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Police"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #17",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/17.png",
+		"dna": "feb1343fd328c2c680e4d81c29c66b9fe169d9df",
+		"edition": 17,
+		"date": 1637509235394,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Inmate"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gag"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Nerd Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pork Pie Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #18",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/18.png",
+		"dna": "d8d98a215a94a847cebffbb4f1768ef07d557e25",
+		"edition": 18,
+		"date": 1637509238624,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Monk"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Joker"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #19",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/19.png",
+		"dna": "4669dcc2965cf135f18e7afbf158a2a185c59f28",
+		"edition": 19,
+		"date": 1637509241634,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Disco Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #20",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/20.png",
+		"dna": "dc55c71f98efaf1492bc2a92523c282bdd347c9e",
+		"edition": 20,
+		"date": 1637509244684,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Trooper"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Horseshoe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Black Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #21",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/21.png",
+		"dna": "682d73f671d7df67719a5fef944f0a4b9f394885",
+		"edition": 21,
+		"date": 1637509248704,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Injured"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Joint"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Biker"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #22",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/22.png",
+		"dna": "1606ebcbbf679404ca2df2cd5049d37229c0184e",
+		"edition": 22,
+		"date": 1637509252222,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Red"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #23",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/23.png",
+		"dna": "f25101b4bf884ed51eed7c30ec0eaba638b0cc18",
+		"edition": 23,
+		"date": 1637509255271,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Neo"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Turban"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #24",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/24.png",
+		"dna": "4f451d759e210f105f3c9f022faff5589a495991",
+		"edition": 24,
+		"date": 1637509259001,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Red"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sailor"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Scottish"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #25",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/25.png",
+		"dna": "2ce1e31f6cd0de4f42f9b36a72507789815b3093",
+		"edition": 25,
+		"date": 1637509262367,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Trench Coat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bionic"
+			},
+			{
+				"trait_type": "Head",
+				"value": "BTFD Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #26",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/26.png",
+		"dna": "c492f5077c4fb6cd1a41bc94813b57b1294aff75",
+		"edition": 26,
+		"date": 1637509265022,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Cat Eyes"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pimp"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #27",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/27.png",
+		"dna": "b1608540d3c4ab7abba7972cb109748a430f58a7",
+		"edition": 27,
+		"date": 1637509267921,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Roman Armor"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Flat Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #28",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/28.png",
+		"dna": "4418c2b0c910fabbe9c6c9e8c3ed775f930ff3c0",
+		"edition": 28,
+		"date": 1637509270591,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Fishnet Pink"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gag"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Cat Eyes"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Disco Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #29",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/29.png",
+		"dna": "858200318e763ce6fe5ec4bfe4a5f627bbfb7752",
+		"edition": 29,
+		"date": 1637509273690,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Caveman"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Stoned"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Dreadlocks"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #30",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/30.png",
+		"dna": "617b82233e7d98e72e39d8902df32a14bea508d0",
+		"edition": 30,
+		"date": 1637509276519,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Ranger"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Tortoiseshell Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Diamond Hands Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #31",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/31.png",
+		"dna": "2fd5dedc443d98cfce8b5d38d46ccf48cc2ab1d8",
+		"edition": 31,
+		"date": 1637509280277,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Red"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Latex"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Trippy"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Biker"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #32",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/32.png",
+		"dna": "5578875011cac59957191c1882a522aa162ac9e2",
+		"edition": 32,
+		"date": 1637509282808,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Lizard"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Vote for Pedro"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Turban"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #33",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/33.png",
+		"dna": "4fa76e5408ad29a124eb4c2874d4032c8d944c80",
+		"edition": 33,
+		"date": 1637509285508,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gag"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Nerd Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Punk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #34",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/34.png",
+		"dna": "f5ca3906c20e399010101df0a0074e768c49c97d",
+		"edition": 34,
+		"date": 1637509288315,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Gore"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sailor"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Crown"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #35",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/35.png",
+		"dna": "707b07faa97d091e878c7ee0c7d944795bbfef20",
+		"edition": 35,
+		"date": 1637509291025,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Injured"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ushanka"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #36",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/36.png",
+		"dna": "cf28625e10038d7c239452af25050f2f815dacde",
+		"edition": 36,
+		"date": 1637509293836,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Fishnet Pink"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tongue Out"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Tortoiseshell Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Black Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #37",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/37.png",
+		"dna": "48bcc43a4b090388af5a2b71a56b03a86779943c",
+		"edition": 37,
+		"date": 1637509296555,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sailor"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "VR"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Beatles"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #38",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/38.png",
+		"dna": "720e765a4a7293b284a5be58ddedaf6c4858d9a8",
+		"edition": 38,
+		"date": 1637509299498,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Wookie"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Ski Goggles"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ushanka"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #39",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/39.png",
+		"dna": "5cc9c081d6d01cce6a5aaa0489d14560854ae047",
+		"edition": 39,
+		"date": 1637509302669,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Midnight"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pork Pie Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #40",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/40.png",
+		"dna": "dc4df0fba738c559502361feb42de43bd96e3c48",
+		"edition": 40,
+		"date": 1637509306436,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "High Vis"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ushanka"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #41",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/41.png",
+		"dna": "cac603c2cd8f8f3e01b284176af9f05e4eb1ea3d",
+		"edition": 41,
+		"date": 1637509309956,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Gore"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Injured"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Side Eyes"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ushanka"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #42",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/42.png",
+		"dna": "2fc11603ca5a9877c7d9d8af60f29a1158e3faac",
+		"edition": 42,
+		"date": 1637509312794,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Wookie"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #43",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/43.png",
+		"dna": "d6bb2002e4abcd667ed4a989c1e1d433dece8c78",
+		"edition": 43,
+		"date": 1637509315875,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Cardano Tee"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Serpent"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Nerd Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mace"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #44",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/44.png",
+		"dna": "2775f9de50f41b24db97abba0b3ec877110ee4af",
+		"edition": 44,
+		"date": 1637509319603,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Lizard"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Bike Leathers"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Shocked"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rocket Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #45",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/45.png",
+		"dna": "af99e10b43d3ab510bc7a5a07f9f3afc08154c15",
+		"edition": 45,
+		"date": 1637509322614,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #46",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/46.png",
+		"dna": "ab63bedb7afed180166502a17de25a9861e7d12f",
+		"edition": 46,
+		"date": 1637509325626,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Ranger"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Cat Eyes"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Hard Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #47",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/47.png",
+		"dna": "4ce016f579acc35c96468d97d35256bbb3d3a94a",
+		"edition": 47,
+		"date": 1637509328900,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Vote for Pedro"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Tortoiseshell Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Dreadlocks"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #48",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/48.png",
+		"dna": "edc8615317f566a8771e348149c51149c274aa85",
+		"edition": 48,
+		"date": 1637509331819,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Midnight"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #49",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/49.png",
+		"dna": "02a0c965a46dfd21d4a6ae04194b46c84300c89b",
+		"edition": 49,
+		"date": 1637509334719,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Inmate"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Slick Black"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #50",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/50.png",
+		"dna": "c283c0ec55d82c2eac7afcd6cb2dc0514711d3a6",
+		"edition": 50,
+		"date": 1637509338232,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sgt. Pepper"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Handlebar"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Crown"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #51",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/51.png",
+		"dna": "6b73612e9a4893891c6410797e84e89ce325f586",
+		"edition": 51,
+		"date": 1637509341081,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Thriller"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Joker"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #52",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/52.png",
+		"dna": "ca9ddf77efb588ca6bbaf7a885362c1f9a46211f",
+		"edition": 52,
+		"date": 1637509343906,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sgt. Pepper"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Detached"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #53",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/53.png",
+		"dna": "2e5fede8e14c45ea1216e8683e28df8110f07dcd",
+		"edition": 53,
+		"date": 1637509347337,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Black Suit"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Kaffiyeh"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #54",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/54.png",
+		"dna": "63a0aa7e60404d050eca6904d34b11cf57f8ac0c",
+		"edition": 54,
+		"date": 1637509350214,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Blue Suit"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Clenched"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Cat Eyes"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Headband"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #55",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/55.png",
+		"dna": "d23af9244b924f14e6b5c392fc6f43ce6d4a6f02",
+		"edition": 55,
+		"date": 1637509353178,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Injured"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Heart Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Black Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #56",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/56.png",
+		"dna": "510e7af62bc7d95b43fa4705586d00e0b725dbd9",
+		"edition": 56,
+		"date": 1637509356291,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Roman Armor"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gag"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Stoned"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Hard Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #57",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/57.png",
+		"dna": "2c4df15af654774f3f84d60746514f1effd2606a",
+		"edition": 57,
+		"date": 1637509359414,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Gore"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Hungry"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Disco Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #58",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/58.png",
+		"dna": "d8bdc77b604345baee4417daf87ec31e6c58394d",
+		"edition": 58,
+		"date": 1637509362900,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Apocalypse Day"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Lizard"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Police"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Handlebar"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Flat Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #59",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/59.png",
+		"dna": "a72c9595a9cd70b5b55bdd40753d3372db6002a1",
+		"edition": 59,
+		"date": 1637509365690,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "NYC Vest"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Shocked"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Punk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #60",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/60.png",
+		"dna": "0e8fddf603f0bfd9c84ff04485939c988efd69c4",
+		"edition": 60,
+		"date": 1637509368549,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Inmate"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pork Pie Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #61",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/61.png",
+		"dna": "e28588896deff7401ee68cc0de2523c118f5587a",
+		"edition": 61,
+		"date": 1637509371029,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Red Pupil"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #62",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/62.png",
+		"dna": "e5abcf73d9f39a231fce020698209469866bde2f",
+		"edition": 62,
+		"date": 1637509374008,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Lumberjack"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ginger Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #63",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/63.png",
+		"dna": "40a521c091b6354c8d0ff2236a807091f9614bdf",
+		"edition": 63,
+		"date": 1637509376902,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Lumberjack"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #64",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/64.png",
+		"dna": "b47924f573a087dc935f0c264688f51d9969d70d",
+		"edition": 64,
+		"date": 1637509380140,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Vote for Pedro"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Nerd Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rocket Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #65",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/65.png",
+		"dna": "a43f8f1bcb7f0eaefe719e73095799134a00d099",
+		"edition": 65,
+		"date": 1637509383141,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Gore"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Cardano Tee"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Disco Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #66",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/66.png",
+		"dna": "7d11a1114b7dcae8570c4e0293f7da10ca84b3f8",
+		"edition": 66,
+		"date": 1637509387219,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Lizard"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Tux"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Flat Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #67",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/67.png",
+		"dna": "36ab1449edc1ce32278f720ce3e3b80cd9f5ca70",
+		"edition": 67,
+		"date": 1637509392151,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sailor"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Monobrow"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Roman Helmet"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #68",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/68.png",
+		"dna": "d5d42def398cd2b4fd369fc49ccd823f50f3d98d",
+		"edition": 68,
+		"date": 1637509394998,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Thriller"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Hipster Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Tortoiseshell Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pork Pie Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #69",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/69.png",
+		"dna": "da73dea0e07d11311c4f7f949d728edbcf2df5f4",
+		"edition": 69,
+		"date": 1637509397907,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Tux"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Horseshoe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "MZLA Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #70",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/70.png",
+		"dna": "43318b40ff86e5798e67ff8e7ed9086fbd331b92",
+		"edition": 70,
+		"date": 1637509400478,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Trench Coat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tongue Out"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Brain"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #71",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/71.png",
+		"dna": "419bc1543a82bd99281c31e71541864d99542432",
+		"edition": 71,
+		"date": 1637509403486,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Avatar"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Tux"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Arrow"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #72",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/72.png",
+		"dna": "4bc3ab47fb5893438fa803c1b273ca445ce5e2aa",
+		"edition": 72,
+		"date": 1637509406167,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "High Vis"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #73",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/73.png",
+		"dna": "2fc45c6f51115563dd0a1e7ddd21ca66a9d2f2bd",
+		"edition": 73,
+		"date": 1637509408890,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Fishnet Black"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gag"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #74",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/74.png",
+		"dna": "688bca61cd8fab20d25838c0142f577601d1a169",
+		"edition": 74,
+		"date": 1637509411597,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sgt. Pepper"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Clenched"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Beatles"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #75",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/75.png",
+		"dna": "1b966cee89c8ed23d9fd6109d6c2722957c1a64a",
+		"edition": 75,
+		"date": 1637509414315,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Black Suit"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #76",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/76.png",
+		"dna": "aa3ddec3fc66dfe9f4a16450c67055c677b3d049",
+		"edition": 76,
+		"date": 1637509417292,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Vote for Pedro"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Detached"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #77",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/77.png",
+		"dna": "a328a9c32750c6720b5754678d77ff7180207f9b",
+		"edition": 77,
+		"date": 1637509422422,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Gore"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "High Vis"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Clenched"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Cat Eyes"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bandana"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #78",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/78.png",
+		"dna": "f28043e137f89ff464c00599a2a50265977a2f0f",
+		"edition": 78,
+		"date": 1637509427116,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Red"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Vote for Pedro"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Arrow"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #79",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/79.png",
+		"dna": "e172df9d0c481f1da5ccc954ffe7100313b3780a",
+		"edition": 79,
+		"date": 1637509430673,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Night Gown"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tongue Out"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Detached"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #80",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/80.png",
+		"dna": "72dbd2cae272a213c8e19ed08355f145a1a23893",
+		"edition": 80,
+		"date": 1637509434400,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Apocalypse Night"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Roman Armor"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Handlebar"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #81",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/81.png",
+		"dna": "3a47d9ce999fb0707b34af153b7eac13058e2bda",
+		"edition": 81,
+		"date": 1637509438288,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Lizard"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Sgt. Pepper"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Eyepatch"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Joker"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #82",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/82.png",
+		"dna": "c2dda0b64412e52fe4ea90ced1ebe220280024b3",
+		"edition": 82,
+		"date": 1637509441913,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Bike Leathers"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Biker"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #83",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/83.png",
+		"dna": "24273d19237bb7efbd20503b39c4d55db10a9ef6",
+		"edition": 83,
+		"date": 1637509444643,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "High Vis"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Clenched"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Police"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #84",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/84.png",
+		"dna": "06fbc0ecd8d7e87f11eb60d19d59679fc59c014f",
+		"edition": 84,
+		"date": 1637509447518,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Christmas Sweater"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #85",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/85.png",
+		"dna": "87d49f5c77bad5ebd013f4f0f53f584d174d6c44",
+		"edition": 85,
+		"date": 1637509450364,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Inmate"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Handlebar"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Roman Helmet"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #86",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/86.png",
+		"dna": "48eec92f2d71e0a45451034ec6548ca6ddb9bd98",
+		"edition": 86,
+		"date": 1637509453107,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Inmate"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Handlebar"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Heart Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Hard Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #87",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/87.png",
+		"dna": "f1c7ed47165f0d6d674a46f715c2cc742e241317",
+		"edition": 87,
+		"date": 1637509455631,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Maroon"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Gold Tooth"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Nerd Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rocket Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #88",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/88.png",
+		"dna": "d97e7aad1413d5ec35e0414cc60e198e8960f519",
+		"edition": 88,
+		"date": 1637509458395,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Gore"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Thriller"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tongue Out"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Stoned"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Flat Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #89",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/89.png",
+		"dna": "ed8aebb81e8494b6ccd9049438c8795bf8016b33",
+		"edition": 89,
+		"date": 1637509461144,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Midnight"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "NYC Vest"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pork Pie Hat"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #90",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/90.png",
+		"dna": "786d15e69929b3bb17ef08fc0f56b480a21e0095",
+		"edition": 90,
+		"date": 1637509463907,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Pale"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Blue Suit"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Biker"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #91",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/91.png",
+		"dna": "cbab007cdf1f2c23cb4e59cffd4888c83668c09e",
+		"edition": 91,
+		"date": 1637509466059,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Moonlight"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Tash"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Shocked"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Clean"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #92",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/92.png",
+		"dna": "8cdfbd769f4433b5a4bbdfb5681f8ed11a29fba6",
+		"edition": 92,
+		"date": 1637509469038,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Midnight"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Thriller"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Eyepatch"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Arrow"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #93",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/93.png",
+		"dna": "0b389f7f7b1c876ab8935323bd483efc74681434",
+		"edition": 93,
+		"date": 1637509472149,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Lizard"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Blue Wings"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Joint"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Aviator Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ginger Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #94",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/94.png",
+		"dna": "9f6501f8bd7487bf88eb9306a540280f4f256261",
+		"edition": 94,
+		"date": 1637509475084,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Light Blue"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Mankini"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Godfather"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Bored"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #95",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/95.png",
+		"dna": "4ca7affabd2f288c27396d312ddc9f632d7dbac0",
+		"edition": 95,
+		"date": 1637509477725,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Black Suit"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Clenched"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #96",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/96.png",
+		"dna": "b2e5498fa5451959784bcc211f03c2ed4daa5e0a",
+		"edition": 96,
+		"date": 1637509480645,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Orange"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Polar White"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Robe"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Tortoiseshell Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #97",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/97.png",
+		"dna": "785a15544eb3922cb8df63a5d9c86eb4f79ff2af",
+		"edition": 97,
+		"date": 1637509483330,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Thriller"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Sussy Smile"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Joker"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Ushanka"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #98",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/98.png",
+		"dna": "9d9be2c7f65e65f5e853dcb5247f6557f6beb223",
+		"edition": 98,
+		"date": 1637509485987,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Gold"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Vampire"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Nerd Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "MZLA Cap"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #99",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/99.png",
+		"dna": "1d8138b83ae245eaecb1d3a8e519bbd9adfebe19",
+		"edition": 99,
+		"date": 1637509488402,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Yellow"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Shocked"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Nerd Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Disco Afro"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "ADA Apocalypse #100",
+		"description": "A Horde of 4,000 algorithmically generated Zombies",
+		"image": "ipfs://NewUriToReplace/100.png",
+		"dna": "3456e6ae06767a6c0e8b632e894b0655c529486d",
+		"edition": 100,
+		"date": 1637509491051,
+		"attributes": [{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Condition",
+				"value": "Clean"
+			},
+			{
+				"trait_type": "Clothes",
+				"value": "Trooper"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Overbite"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Scottish"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	}
+]

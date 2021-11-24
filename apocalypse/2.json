@@ -1,0 +1,30 @@
+[
+  {
+    "trait_type": "Background",
+    "value": "Purple"
+  },
+  {
+    "trait_type": "Skin",
+    "value": "Lizard"
+  },
+  {
+    "trait_type": "Condition",
+    "value": "Clean"
+  },
+  {
+    "trait_type": "Clothes",
+    "value": "Ranger"
+  },
+  {
+    "trait_type": "Mouth",
+    "value": "Pipe"
+  },
+  {
+    "trait_type": "Eyes",
+    "value": "Sunglasses"
+  },
+  {
+    "trait_type": "Head",
+    "value": "Police"
+  }
+]

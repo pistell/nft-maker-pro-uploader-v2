@@ -1,0 +1,30 @@
+[
+  {
+    "trait_type": "Background",
+    "value": "Maroon"
+  },
+  {
+    "trait_type": "Skin",
+    "value": "Pale"
+  },
+  {
+    "trait_type": "Condition",
+    "value": "Clean"
+  },
+  {
+    "trait_type": "Clothes",
+    "value": "Police"
+  },
+  {
+    "trait_type": "Mouth",
+    "value": "Hipster Tash"
+  },
+  {
+    "trait_type": "Eyes",
+    "value": "Bored"
+  },
+  {
+    "trait_type": "Head",
+    "value": "Hard Hat"
+  }
+]
